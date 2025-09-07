@@ -39,7 +39,6 @@ Visit our main website to explore all services and features:
 - **[account.adultdatalink.com](https://account.adultdatalink.com)**: User account management and API key generation.
 - **[media.adultdatalink.com](https://media.adultdatalink.com)**: Media management interface for videos, images, and galleries.
 - **[adops.adultdatalink.com](https://adops.adultdatalink.com)**: Advertising operations and campaign management tools.
-- **[merchant.adultdatalink.com](https://merchant.adultdatalink.com)**: Merchant services for managing transactions and subscriptions.
 - **[adr.adultdatalink.com](https://adr.adultdatalink.com)**: Ad revenue optimization and reporting dashboard.
 - **[payments.adultdatalink.com](https://payments.adultdatalink.com)**: Payment processing and billing management.
 - **[ame.adultdatalink.com](https://ame.adultdatalink.com)**: Adult media editor for content customization and moderation.
@@ -56,7 +55,6 @@ Visit our main website to explore all services and features:
 - **[api.adultdatalink.com](https://api.adultdatalink.com)**: Core API for accessing adult content and metadata.
 - **[media.adultdatalink.com](https://media.adultdatalink.com)**: Backend media processing and delivery service.
 - **[storageapi.adultdatalink.com](https://storageapi.adultdatalink.com)**: API for secure content storage and retrieval.
-- **[paymentsapi.adultdatalink.com](https://paymentsapi.adultdatalink.com)**: API for payment processing and transaction management.
 - **[tradingapi.adultdatalink.com](https://tradingapi.adultdatalink.com)**: API for ad trading and monetization.
 - **[serviceengine.adultdatalink.com](https://serviceengine.adultdatalink.com)**: Core service engine for managing platform operations.
 - **[cdn.adultdatalink.com](https://cdn.adultdatalink.com)**: Content delivery network for fast and reliable media streaming.
